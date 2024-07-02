@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1007668121294",
+    "firebase_url": "https://abarrotesapp-8e3ae-default-rtdb.firebaseio.com",
+    "project_id": "abarrotesapp-8e3ae",
+    "storage_bucket": "abarrotesapp-8e3ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007668121294:android:758834b51a48cce87d0a9f",
+        "android_client_info": {
+          "package_name": "com.cibertec.abarrotestiendaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007668121294-l39cqfphsch7dmpa7395unoauaf67p1u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cibertec.abarrotestiendaapp",
+            "certificate_hash": "ed4348c7880a90837a6447cbc5e21e9c86d4e029"
+          }
+        },
+        {
+          "client_id": "1007668121294-fk7d9vnp7h26sa1rk15e1rdsj7qds8i5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1RPkYlFs-UVV-YZiqudAEQ2VfLR-ihmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007668121294-fk7d9vnp7h26sa1rk15e1rdsj7qds8i5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AbarrotesTiendaApp</string>
+    <string name="default_web_client_id">1007668121294-fk7d9vnp7h26sa1rk15e1rdsj7qds8i5.apps.googleusercontent.com</string>
+
+    <string-array name="categories">
+        <item>Salsas</item>
+        <item>Embutidos</item>
+        <item>Menestras</item>
+        <item>Arrozes</item>
+        <item>Dulces</item>
+        <item>Bebidas</item>
+        <item>Pan</item>
+        <item>Aceite</item>
+        <item>Pastas</item>
+        <item>Lácteos</item>
+    </string-array>
+</resources>
